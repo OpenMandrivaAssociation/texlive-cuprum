@@ -1,6 +1,6 @@
 Name:		texlive-cuprum
 Version:	49909
-Release:	1
+Release:	2
 Summary:	Cuprum font family support for LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cuprum
