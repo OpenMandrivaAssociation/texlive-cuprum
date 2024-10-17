@@ -3,7 +3,7 @@ Version:	49909
 Release:	2
 Summary:	Cuprum font family support for LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cuprum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cuprum
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cuprum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cuprum.doc.r%{version}.tar.xz
